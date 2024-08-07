@@ -16,6 +16,7 @@
     padding-left: 200px;
     padding-right: 200px;
     padding-top: 10px;
+
 }
 .navigation a{
     text-decoration: none;
@@ -41,6 +42,7 @@
     font-weight: 100;
 }
 .body-content button{
+    display: block;
     background-color: #387ed1;
     color: white;
     border: none;
@@ -49,5 +51,6 @@
     padding-left: 22px;
     padding-right: 22px;
     font-size: 20px;
+    margin: auto;
 
 }
